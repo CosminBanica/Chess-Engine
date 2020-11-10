@@ -1,0 +1,1 @@
+# Chess engine for Xboard (team project)
